@@ -16,6 +16,6 @@ spec:
  spec: 
  containers: 
  - name: my-container 
- image: nginx:1.14.2 
+ image: toral2424/proj2:latest
  ports: 
  - containerPort: 80
