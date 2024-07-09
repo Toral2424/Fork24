@@ -16,6 +16,6 @@ spec:
  spec: 
  containers: 
  - name: my-container 
- image: toral2424/proj2:latest
+ image: toral2424/proj2
  ports: 
  - containerPort: 80
